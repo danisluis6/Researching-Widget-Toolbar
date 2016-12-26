@@ -15,5 +15,26 @@
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version1_1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_1.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_2.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_3.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_4.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_5.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_6.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_7.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Toolbar/blob/version2/Toolbar/version1_8.png">
 </p>
